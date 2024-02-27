@@ -1,4 +1,4 @@
-## [SDF10] API Learning Reflection
+## [SDF10] API Learning Reflection 🧠
 
 Welcome to the [SDF10] API Learning Reflection! Through this exercise, you will reflect on key concepts, practical experiences, and the tools you've encountered or used in API interactions.
 
@@ -6,7 +6,7 @@ Welcome to the [SDF10] API Learning Reflection! Through this exercise, you will 
 
 [Your answer goes here]
 
-2. **Conceptual Distinctions**: How would you differentiate between an interface and an API? Describe a situation where you had to choose between using a direct interface and an API for a software solution, and explain your reasoning.
+2. **Conceptual Distinctions**: How would you differentiate between an interface and an API? 
 
 [Your answer goes here]
 
@@ -14,7 +14,7 @@ Welcome to the [SDF10] API Learning Reflection! Through this exercise, you will 
 
 [Your answer goes here]
 
-4. **Practical Application and Tools**: Reflect on your experience with API exploration and implementation. Have you used any specific tools (such as Curl or API exploration tools) or libraries to interact with APIs? Describe how these tools or libraries facilitated your interaction with APIs.
+4. **Practical Application and Tools**: Reflect on your experience with API exploration and implementation. Have you used any specific tools (such as Curl or API exploration tools) or libraries to interact with APIs? 
 
 [Your answer goes here]
 
